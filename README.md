@@ -1,2 +1,2 @@
 # eCOgnitive
-College project
+Repository for college project | Third Term 2022.1
