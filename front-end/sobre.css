@@ -1,0 +1,46 @@
+body{
+    background-color: #078756;
+}
+.principal{
+    
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 90px;
+    font-size: 20px;
+}
+
+#logoeCO {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+p{
+    font-size: 22px;
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+ul{
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+    padding-left: 100px;
+    margin: 50px;
+
+}
+.polu {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.poluimg{
+    width: 14%;
+    padding-left: 20px;
+    padding-bottom: 100px;
+
+}

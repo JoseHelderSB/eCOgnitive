@@ -1,0 +1,30 @@
+body{
+    background-color: #078756;
+}
+
+#logoeCO {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+nav li{
+    display: inline;
+    margin-left: 50px;
+
+}
+
+nav a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    top: 500%;
+    left: 50%;
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
