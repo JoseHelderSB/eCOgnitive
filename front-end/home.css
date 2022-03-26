@@ -1,30 +1,39 @@
-body{
-    background-color: #078756;
+header{
+    background-color: #658F50;
+    padding: 20px 0;
 }
+
+body{
+    background-color: #115d37;
+}
+
 
 #logoeCO {
     width: 20%;
-    display: block;
-    margin: auto;
 }
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 80px;
+    right: 0;
+  
+}
+
 
 nav li{
     display: inline;
-    margin-left: 50px;
-
+    margin: 0 0 0 15px;
 }
 
 nav a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
-    font-size: 30px;
+    color: #ffff;
+    font-size: 22px;
     text-decoration: none;
-    top: 500%;
-    left: 50%;
-    float: none;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
 }
