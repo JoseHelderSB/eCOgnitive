@@ -1,5 +1,5 @@
 header{
-    background-color: #658F50;
+    background-color: white;
     padding: 20px 0 ;
 }
 
@@ -20,8 +20,8 @@ body{
 
 nav {
     position: absolute;
-    top: 80px;
     right: 0;
+    top: 30%;
   
 }
 
@@ -33,7 +33,7 @@ nav li{
 
 nav a{
     font-family: 'Trebuchet MS', sans-serif;
-    color: #ffff;
+    color: #105d38;
     font-size: 22px;
     text-decoration: none;
 }
