@@ -3,6 +3,12 @@ header{
     padding: 20px 0 ;
 }
 
+#logoeCO {
+    width: 25%;
+    display: block;
+    margin: right;
+}
+
 body{
     background-color: #115d37;
 }
